@@ -1,9 +1,8 @@
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 Deploy this sample application to Pivotal Web Services:
-<a href="http://codeready-crw.apps.ocp4.home.ocpcloud.com/f?id=factory00px0gvwp6asmk24">
+<a href="http://codeready-crw.apps.first.40.ocpcloud.com/f?name=petclinic&user=veer">
     <img src="http://beta.codenvy.com/factory/resources/codenvy-contribute.svg" width="130" alt="Push" align="top">
 </a>
-image:http://beta.codenvy.com/factory/resources/codenvy-contribute.svg["http://codeready-crw.apps.ocp4.home.ocpcloud.com/f?id=factory00px0gvwp6asmk24"]
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
