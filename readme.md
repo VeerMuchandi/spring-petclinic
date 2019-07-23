@@ -1,6 +1,6 @@
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 Deploy this sample application to Red Hat CodeReady Workspaces:
-<a href="http://codeready-crw.apps.first.40.ocpcloud.com/f?name=petclinic&user=veer">
+<a href="http://codeready-crw.apps.ocp4.home.ocpcloud.com/f?id=factory73qh97713m1w8fe3">
     <img src="http://beta.codenvy.com/factory/resources/codenvy-contribute.svg" width="130" alt="Push" align="top">
 </a>
 
